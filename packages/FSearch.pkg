@@ -1,0 +1,3 @@
+deb,https://download.opensuse.org/repositories/home:/cboxdoerfer/Debian_11/amd64/fsearch_0.2.2-1+3.3_amd64.deb
+opensuse,https://software.opensuse.org/ymp/home:cboxdoerfer/15.4/fsearch.ymp
+fedora,https://copr.fedorainfracloud.org/coprs/cboxdoerfer/fsearch/repo/fedora-36/cboxdoerfer-fsearch-fedora-36.repo
